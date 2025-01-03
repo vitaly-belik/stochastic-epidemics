@@ -29,7 +29,7 @@ import datetime
 
     25.07.2014
     - version, where the health state of incoming patients is checked and their
-    prevalence is calculated just as fraction of infected guys.
+    prevalence is calculated just as fraction of infecteds.
 
 
     22.07.2014

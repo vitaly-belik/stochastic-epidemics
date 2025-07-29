@@ -21,5 +21,5 @@ https://doi.org/10.1007/978-981-10-5287-3_9
 }
 
 The repository contains a prototyte code for stochastic agent-based simulation of an epidemic spread on a metapopulation network. 
-It uses the Gillespie algorithm with a priority queue (similar to e.g. https://doi.org/10.1021/jp993732q). Movements of individuals 
+It uses the Gillespie algorithm with a priority queue. Movements of individuals 
 between locations are pre-scheduled and given by a temporal network. 

@@ -8,16 +8,16 @@ for Epidemic Control. In: Masuda, N., Holme, P. (eds) Temporal Network Epidemiol
 https://doi.org/10.1007/978-981-10-5287-3_9
 
 @incollection{Belik2017,
-  author    = {Belik, Vitaly and Karch, Andr{\'e} and H{\"o}vel, Philipp and Mikolajczyk, Rafael},\\
-  title     = {Leveraging Topological and Temporal Structure of Hospital Referral Networks for Epidemic Control},\\
-  booktitle = {Temporal Network Epidemiology},\\
-  editor    = {Masuda, Naoki and Holme, Petter},\\
-  series    = {Theoretical Biology},\\
-  year      = {2017},\\
-  publisher = {Springer},\\
-  address   = {Singapore},\\
-  doi       = {10.1007/978-981-10-5287-3_9},\\
-  url       = {https://doi.org/10.1007/978-981-10-5287-3_9}\\
+  author    = {Belik, Vitaly and Karch, Andr{\'e} and H{\"o}vel, Philipp and Mikolajczyk, Rafael},
+  title     = {Leveraging Topological and Temporal Structure of Hospital Referral Networks for Epidemic Control},
+  booktitle = {Temporal Network Epidemiology},
+  editor    = {Masuda, Naoki and Holme, Petter},
+  series    = {Theoretical Biology},
+  year      = {2017},
+  publisher = {Springer},
+  address   = {Singapore},
+  doi       = {10.1007/978-981-10-5287-3_9},
+  url       = {https://doi.org/10.1007/978-981-10-5287-3_9}
 }
 
 The repository contains a prototyte code for stochastic agent-based simulation of an epidemic spread on a metapopulation network. 
